@@ -1,0 +1,56 @@
+[
+    {
+        "text": "eat",
+        "color": "#f97316",
+        "icon": "icons/food.svg"
+    },
+    {
+        "text": "drink",
+        "color": "#3b82f6",
+        "icon": "icons/cup.svg"
+    },
+    {
+        "text": "help",
+        "color": "#fbbf24",
+        "icon": "icons/hand.svg"
+    },
+    {
+        "text": "more",
+        "color": "#22c55e",
+        "icon": "icons/plus.svg"
+    },
+    {
+        "text": "open",
+        "color": "#3b82f6",
+        "icon": "icons/door.svg"
+    },
+    {
+        "text": "run",
+        "color": "#ef4444",
+        "icon": "icons/person.svg"
+    },
+    {
+        "text": "hug",
+        "color": "#00007f",
+        "icon": "",
+        "zoneid": null
+    },
+    {
+        "text": "tickle",
+        "color": "#aa0000",
+        "icon": "",
+        "zoneid": null
+    },
+    {
+        "text": "give",
+        "color": "#550000",
+        "icon": "",
+        "zoneid": null
+    },
+    {
+        "text": "finished",
+        "color": "#ff007f",
+        "icon": "",
+        "zoneid": null
+    }
+]

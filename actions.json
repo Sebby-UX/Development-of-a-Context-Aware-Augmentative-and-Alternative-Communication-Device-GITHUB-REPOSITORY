@@ -1,0 +1,18 @@
+[
+    {"text": "want","zoneid":1, "color": "#14b8a6", "icon": "icons/hand.svg"},
+  {"text": "go","zoneid":1, "color": "#14b8a6", "icon": "icons/arrow.svg"},
+  {"text": "stop","zoneid":1, "color": "#ef4444", "icon": "icons/hand.svg"},
+  {"text": "play","zoneid":1, "color": "#a855f7", "icon": "icons/play.svg"},
+  {"text": "eat","zoneid":1, "color": "#f97316", "icon": "icons/food.svg"},
+  {"text": "drink","zoneid":1, "color": "#3b82f6", "icon": "icons/cup.svg"},
+  {"text": "sleep","zoneid":1, "color": "#6366f1", "icon": "icons/moon.svg"},
+  {"text": "bathroom","zoneid":1, "color": "#14b8a6", "icon": "icons/door.svg"},
+  {"text": "help","zoneid":1, "color": "#fbbf24", "icon": "icons/hand.svg"},
+  {"text": "more","zoneid":1, "color": "#22c55e", "icon": "icons/plus.svg"},
+  {"text": "open","zoneid":1, "color": "#3b82f6", "icon": "icons/door.svg"},
+  {"text": "close","zoneid":1, "color": "#64748b", "icon": "icons/door.svg"},
+  {"text": "sit","zoneid":1, "color": "#a855f7", "icon": "icons/chair.svg"},
+  {"text": "stand","zoneid":1, "color": "#14b8a6", "icon": "icons/person.svg"},
+  {"text": "walk","zoneid":1, "color": "#f97316", "icon": "icons/person.svg"},
+  {"text": "run","zoneid":1, "color": "#ef4444", "icon": "icons/person.svg"}
+]

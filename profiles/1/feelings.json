@@ -1,0 +1,26 @@
+[
+    {
+        "text": "happy",
+        "color": "#fbbf24",
+        "icon": "/home/aas/Downloads/Student 1/emotions /Happy.jpg",
+        "zoneid": null
+    },
+    {
+        "text": "sad",
+        "color": "#3b82f6",
+        "icon": "/home/aas/Downloads/Student 1/emotions /Sad.jpg",
+        "zoneid": null
+    },
+    {
+        "text": "sick",
+        "color": "#22c55e",
+        "icon": "/home/aas/Downloads/Student 1/emotions /Sick.jpg",
+        "zoneid": null
+    },
+    {
+        "text": "angry",
+        "color": "#ff0000",
+        "icon": "/home/aas/Downloads/Student 1/emotions /angry.jpg",
+        "zoneid": null
+    }
+]

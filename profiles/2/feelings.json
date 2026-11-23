@@ -1,0 +1,18 @@
+[
+    {"text": "happy", "color": "#fbbf24", "icon": "icons/smile.svg"},
+  {"text": "sad", "color": "#3b82f6", "icon": "icons/frown.svg"},
+  {"text": "mad", "color": "#ef4444", "icon": "icons/mad.svg"},
+  {"text": "scared", "color": "#a855f7", "icon": "icons/scared.svg"},
+  {"text": "tired", "color": "#64748b", "icon": "icons/tired.svg"},
+  {"text": "hurt", "color": "#f97316", "icon": "icons/ouch.svg"},
+  {"text": "sick", "color": "#22c55e", "icon": "icons/sick.svg"},
+  {"text": "good", "color": "#14b8a6", "icon": "icons/thumbsup.svg"},
+  {"text": "love", "color": "#ec4899", "icon": "icons/heart.svg"},
+  {"text": "like", "color": "#22c55e", "icon": "icons/thumbsup.svg"},
+  {"text": "don't", "color": "#ef4444", "icon": "icons/thumbsdown.svg"},
+  {"text": "hate", "color": "#991b1b", "icon": "icons/thumbsdown.svg"},
+  {"text": "okay", "color": "#fbbf24", "icon": "icons/hand.svg"},
+  {"text": "bad", "color": "#64748b", "icon": "icons/thumbsdown.svg"},
+  {"text": "excited", "color": "#f97316", "icon": "icons/star.svg"},
+  {"text": "calm", "color": "#14b8a6", "icon": "icons/peace.svg"}
+]

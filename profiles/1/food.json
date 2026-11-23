@@ -1,0 +1,18 @@
+[
+    {"text": "juice", "color": "#f97316", "icon": "icons/cup.svg"},
+  {"text": "water", "color": "#3b82f6", "icon": "icons/cup.svg"},
+  {"text": "milk", "color": "#f8fafc", "icon": "icons/cup.svg"},
+  {"text": "apple", "color": "#ef4444", "icon": "icons/food.svg"},
+  {"text": "banana", "color": "#fbbf24", "icon": "icons/food.svg"},
+  {"text": "bread", "color": "#d97706", "icon": "icons/food.svg"},
+  {"text": "cheese", "color": "#fbbf24", "icon": "icons/food.svg"},
+  {"text": "cookie", "color": "#92400e", "icon": "icons/food.svg"},
+  {"text": "cracker", "color": "#d4a574", "icon": "icons/food.svg"},
+  {"text": "chicken", "color": "#fbbf24", "icon": "icons/food.svg"},
+  {"text": "pizza", "color": "#ef4444", "icon": "icons/food.svg"},
+  {"text": "pasta", "color": "#fbbf24", "icon": "icons/food.svg"},
+  {"text": "fruit", "color": "#22c55e", "icon": "icons/food.svg"},
+  {"text": "veg", "color": "#16a34a", "icon": "icons/food.svg"},
+  {"text": "candy", "color": "#ec4899", "icon": "icons/food.svg"},
+  {"text": "ice cream", "color": "#fcd34d", "icon": "icons/food.svg"}
+]

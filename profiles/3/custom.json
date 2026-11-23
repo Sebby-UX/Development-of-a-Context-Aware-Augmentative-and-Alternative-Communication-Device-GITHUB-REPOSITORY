@@ -1,0 +1,56 @@
+[
+    {
+        "text": "Beads",
+        "zoneid": null,
+        "color": "#4CAF50",
+        "icon": "/home/aas/Downloads/Student 3/Beads.png"
+    },
+    {
+        "text": "String",
+        "zoneid": null,
+        "color": "#9C27B0",
+        "icon": "/home/aas/Downloads/Student 3/String.png"
+    },
+    {
+        "text": "Pencil",
+        "zoneid": null,
+        "color": "#795548",
+        "icon": "/home/aas/Downloads/Student 3/Pencil.png"
+    },
+    {
+        "text": "Eraser",
+        "zoneid": null,
+        "color": "#607D8B",
+        "icon": "/home/aas/Downloads/Student 3/Eraser.png"
+    },
+    {
+        "text": "Marker",
+        "zoneid": null,
+        "color": "#00BCD4",
+        "icon": "/home/aas/Downloads/Student 3/Marker.webp"
+    },
+    {
+        "text": "Paper",
+        "zoneid": null,
+        "color": "#F44336",
+        "icon": "/home/aas/Downloads/Student 3/paper.jpg"
+    },
+    {
+        "text": "Scissor",
+        "color": "#00007f",
+        "icon": "/home/aas/Downloads/Student 3/scissor.png",
+        "zoneid": null
+    },
+    {
+        "text": "Clothes",
+        "color": "#55007f",
+        "icon": "/home/aas/Downloads/Student 3/Clothes.png",
+        "zoneid": null
+    },
+    {
+        "text": "Towel",
+        "color": "#aa0000",
+        "icon": "/home/aas/Downloads/Student 3/Towel.png",
+        "zoneid": null
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "text": "apple",
+        "color": "#ef4444",
+        "icon": "icons/food.svg"
+    },
+    {
+        "text": "banana",
+        "color": "#fbbf24",
+        "icon": "icons/food.svg"
+    },
+    {
+        "text": "bread",
+        "color": "#d97706",
+        "icon": "icons/food.svg"
+    },
+    {
+        "text": "orange",
+        "color": "#ff5500",
+        "icon": "",
+        "zoneid": null
+    },
+    {
+        "text": "grapes",
+        "color": "#55007f",
+        "icon": "",
+        "zoneid": null
+    },
+    {
+        "text": "mango",
+        "color": "#ffaa00",
+        "icon": "",
+        "zoneid": null
+    }
+]

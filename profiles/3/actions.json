@@ -1,0 +1,92 @@
+[
+    {
+        "text": "eat",
+        "zoneid": null,
+        "color": "#f97316",
+        "icon": "/home/aas/Downloads/Student 3/Eat.png"
+    },
+    {
+        "text": "drink",
+        "zoneid": null,
+        "color": "#3b82f6",
+        "icon": "/home/aas/Downloads/Student 3/Drink.png"
+    },
+    {
+        "text": "sleep",
+        "zoneid": null,
+        "color": "#6366f1",
+        "icon": "/home/aas/Downloads/Student 3/Sleep.png"
+    },
+    {
+        "text": "Take Bath",
+        "zoneid": null,
+        "color": "#14b8a6",
+        "icon": "/home/aas/Downloads/Student 3/Take Bath.png"
+    },
+    {
+        "text": "help",
+        "zoneid": null,
+        "color": "#fbbf24",
+        "icon": "/home/aas/Downloads/Student 3/Help.png"
+    },
+    {
+        "text": "more",
+        "zoneid": null,
+        "color": "#22c55e",
+        "icon": "/home/aas/Downloads/Student 3/More.png"
+    },
+    {
+        "text": "open",
+        "zoneid": null,
+        "color": "#3b82f6",
+        "icon": "/home/aas/Downloads/Student 3/Open.png"
+    },
+    {
+        "text": "sit",
+        "zoneid": null,
+        "color": "#a855f7",
+        "icon": "/home/aas/Downloads/Student 3/Sit.png"
+    },
+    {
+        "text": "Give",
+        "color": "#aa5500",
+        "icon": "/home/aas/Downloads/Student 3/Give.png",
+        "zoneid": null
+    },
+    {
+        "text": "Finished",
+        "color": "#00007f",
+        "icon": "/home/aas/Downloads/Student 3/Finished.png",
+        "zoneid": null
+    },
+    {
+        "text": "Watch Tv",
+        "color": "#4800ff",
+        "icon": "/home/aas/Downloads/Student 3/Watching TV.png",
+        "zoneid": null
+    },
+    {
+        "text": "Wash Hands",
+        "color": "#ff0000",
+        "icon": "/home/aas/Downloads/Student 3/Wash Hands.png",
+        "zoneid": null
+    },
+    {
+        "text": "Cook",
+        "color": "#550000",
+        "icon": "/home/aas/Downloads/Student 3/Cook.png",
+        "zoneid": null
+    },
+    {
+        "text": "Write",
+        "color": "#aa007f",
+        "icon": "/home/aas/Downloads/Student 3/Write.png",
+        "zoneid": null
+    },
+    {
+        "text": "Read",
+        "color": "#ff007f",
+        "icon": "/home/aas/Downloads/Student 3/Read.png",
+        "zoneid": null
+    }
+]

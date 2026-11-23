@@ -1,0 +1,62 @@
+[
+    {
+        "text": "apple",
+        "color": "#ef4444",
+        "icon": "/home/aas/Downloads/Student 2/Apple.jpg",
+        "zoneid": null
+    },
+    {
+        "text": "banana",
+        "color": "#fbbf24",
+        "icon": "C:/Users/USER098/Downloads/venv/banana.jpg",
+        "zoneid": null
+    },
+    {
+        "text": "Orange",
+        "color": "#ff5500",
+        "icon": "/home/aas/Downloads/Student 2/Orange.jpg",
+        "zoneid": null
+    },
+    {
+        "text": "Grapes",
+        "color": "#55007f",
+        "icon": "/home/aas/Downloads/Student 2/Grapes.jpg",
+        "zoneid": null
+    },
+    {
+        "text": "Mango",
+        "color": "#ffaa00",
+        "icon": "/home/aas/Downloads/Student 2/Mango.jpg",
+        "zoneid": null
+    },
+    {
+        "text": "Strawberry",
+        "color": "#ff0000",
+        "icon": "",
+        "zoneid": null
+    },
+    {
+        "text": "Kiwi",
+        "color": "#005500",
+        "icon": "/home/aas/Downloads/Student 2/Kiwi.jpg",
+        "zoneid": null
+    },
+    {
+        "text": "Watermelon",
+        "color": "#006100",
+        "icon": "/home/aas/Downloads/Student 2/Watermelon.jpg",
+        "zoneid": null
+    },
+    {
+        "text": "Lemon",
+        "color": "#ffff00",
+        "icon": "/home/aas/Downloads/Student 2/Lemon.jpg",
+        "zoneid": null
+    },
+    {
+        "text": "Pineapple",
+        "color": "#ffe101",
+        "icon": "/home/aas/Downloads/Student 2/Pineapple.jpg",
+        "zoneid": null
+    }
+]

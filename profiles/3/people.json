@@ -1,0 +1,44 @@
+[
+    {
+        "text": "me",
+        "zoneid": null,
+        "color": "#fbbf24",
+        "icon": "/home/aas/Downloads/Student 3/Me.png"
+    },
+    {
+        "text": "Mommy",
+        "zoneid": null,
+        "color": "#ec4899",
+        "icon": "/home/aas/Downloads/Student 3/Mommy.png"
+    },
+    {
+        "text": "Daddy",
+        "zoneid": null,
+        "color": "#3b82f6",
+        "icon": "/home/aas/Downloads/Student 3/Daddy.png"
+    },
+    {
+        "text": "grandma",
+        "zoneid": null,
+        "color": "#ec4899",
+        "icon": "/home/aas/Downloads/Student 3/Grandma.png"
+    },
+    {
+        "text": "grandpa",
+        "zoneid": null,
+        "color": "#3b82f6",
+        "icon": "/home/aas/Downloads/Student 3/Grandpa.png"
+    },
+    {
+        "text": "sister",
+        "zoneid": null,
+        "color": "#f472b6",
+        "icon": "/home/aas/Downloads/Student 3/Sister.png"
+    },
+    {
+        "text": "brother",
+        "zoneid": null,
+        "color": "#60a5fa",
+        "icon": "/home/aas/Downloads/Student 3/Brother.png"
+    }
+]

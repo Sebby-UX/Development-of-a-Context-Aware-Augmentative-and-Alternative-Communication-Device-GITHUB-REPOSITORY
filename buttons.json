@@ -1,0 +1,10 @@
+[
+    { "text": "Play", "color": "#4CAF50", "icon": "icons/play.png" },
+    { "text": "Settings", "color": "#2196F3", "icon": "icons/settings.png" },
+    { "text": "Inventory", "color": "#FF9800", "icon": "icons/bag.png" },
+    { "text": "Skills", "color": "#9C27B0", "icon": "icons/skill.png" },
+    { "text": "Shop", "color": "#795548", "icon": "icons/shop.png" },
+    { "text": "Quests", "color": "#607D8B", "icon": "icons/quest.png" },
+    { "text": "Map", "color": "#00BCD4", "icon": "icons/map.png" },
+    { "text": "Exit", "color": "#F44336", "icon": "icons/exit.png" }
+]

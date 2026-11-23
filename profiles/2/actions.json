@@ -1,0 +1,32 @@
+[
+    {
+        "text": "Help",
+        "color": "#fbbf24",
+        "icon": "/home/aas/Downloads/Student 2/Help.png",
+        "zoneid": null
+    },
+    {
+        "text": "More",
+        "color": "#22c55e",
+        "icon": "/home/aas/Downloads/Student 2/More.png",
+        "zoneid": null
+    },
+    {
+        "text": "Open",
+        "color": "#3b82f6",
+        "icon": "/home/aas/Downloads/Student 2/Open.png",
+        "zoneid": null
+    },
+    {
+        "text": "Give",
+        "color": "#00007f",
+        "icon": "/home/aas/Downloads/Student 2/Give.png",
+        "zoneid": null
+    },
+    {
+        "text": "Finished",
+        "color": "#aa0000",
+        "icon": "/home/aas/Downloads/Student 2/Finished.png",
+        "zoneid": null
+    }
+]

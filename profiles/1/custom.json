@@ -1,0 +1,37 @@
+[
+    {
+        "text": "Play",
+        "color": "#4CAF50",
+        "icon": "icons/play.svg"
+    },
+    {
+        "text": "Skills",
+        "color": "#9C27B0",
+        "icon": "icons/skill.svg"
+    },
+    {
+        "text": "Shop",
+        "color": "#795548",
+        "icon": "icons/shop.svg"
+    },
+    {
+        "text": "Quests",
+        "color": "#607D8B",
+        "icon": "icons/quest.svg"
+    },
+    {
+        "text": "Map",
+        "color": "#00BCD4",
+        "icon": "icons/map.svg"
+    },
+    {
+        "text": "Exit",
+        "color": "#F44336",
+        "icon": "icons/exit.svg"
+    },
+    {
+        "text": "things",
+        "color": "#55ff00",
+        "icon": "svg/people.svg"
+    }
+]

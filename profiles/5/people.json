@@ -1,0 +1,44 @@
+[
+    {
+        "text": "me",
+        "color": "#fbbf24",
+        "icon": "icons/person.svg"
+    },
+    {
+        "text": "mom",
+        "color": "#ec4899",
+        "icon": "icons/person.svg"
+    },
+    {
+        "text": "dad",
+        "color": "#3b82f6",
+        "icon": "icons/person.svg"
+    },
+    {
+        "text": "teacher",
+        "color": "#f97316",
+        "icon": "icons/person.svg"
+    },
+    {
+        "text": "sister",
+        "color": "#f472b6",
+        "icon": "icons/person.svg"
+    },
+    {
+        "text": "brother",
+        "color": "#60a5fa",
+        "icon": "icons/person.svg"
+    },
+    {
+        "text": "grandama",
+        "color": "#ff0000",
+        "icon": "",
+        "zoneid": null
+    },
+    {
+        "text": "grandapa",
+        "color": "#5500ff",
+        "icon": "",
+        "zoneid": null
+    }
+]

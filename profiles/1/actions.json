@@ -1,0 +1,86 @@
+[
+    {
+        "text": "help",
+        "color": "#fbbf24",
+        "icon": "/home/aas/Downloads/Student 1/basic requests/Help.png",
+        "zoneid": null
+    },
+    {
+        "text": "more",
+        "color": "#22c55e",
+        "icon": "/home/aas/Downloads/Student 1/basic requests/moreT.png",
+        "zoneid": null
+    },
+    {
+        "text": "open",
+        "color": "#3b82f6",
+        "icon": "/home/aas/Downloads/Student 1/basic requests/opent.png",
+        "zoneid": null
+    },
+    {
+        "text": "Hug",
+        "color": "#00007f",
+        "icon": "",
+        "zoneid": null
+    },
+    {
+        "text": "Kneel",
+        "color": "#aa0000",
+        "icon": "",
+        "zoneid": null
+    },
+    {
+        "text": "Hop",
+        "color": "#0000ff",
+        "icon": "",
+        "zoneid": null
+    },
+    {
+        "text": "Jump",
+        "color": "#aa007f",
+        "icon": "",
+        "zoneid": null
+    },
+    {
+        "text": "Crawl",
+        "color": "#550000",
+        "icon": "",
+        "zoneid": null
+    },
+    {
+        "text": "Dance",
+        "color": "#ff0000",
+        "icon": "",
+        "zoneid": null
+    },
+    {
+        "text": "Color",
+        "color": "#55007f",
+        "icon": "/home/aas/Downloads/Student 1/activity/Colors.jpg",
+        "zoneid": null
+    },
+    {
+        "text": "Wrirte",
+        "color": "#5500ff",
+        "icon": "",
+        "zoneid": null
+    },
+    {
+        "text": "Brush Teeth",
+        "color": "#ff00ff",
+        "icon": "",
+        "zoneid": null
+    },
+    {
+        "text": "Give",
+        "color": "#00557f",
+        "icon": "/home/aas/Downloads/Student 1/basic requests/Give.png",
+        "zoneid": null
+    },
+    {
+        "text": "Finished",
+        "color": "#000000",
+        "icon": "/home/aas/Downloads/Student 1/basic requests/finishedt.png",
+        "zoneid": null
+    }
+]

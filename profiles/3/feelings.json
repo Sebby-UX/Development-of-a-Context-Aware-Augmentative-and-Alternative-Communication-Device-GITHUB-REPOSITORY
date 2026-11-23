@@ -1,0 +1,18 @@
+[
+    {"text": "happy","zoneid":1, "color": "#fbbf24", "icon": "icons/smile.svg"},
+  {"text": "sad","zoneid":1, "color": "#3b82f6", "icon": "icons/frown.svg"},
+  {"text": "mad","zoneid":1, "color": "#ef4444", "icon": "icons/mad.svg"},
+  {"text": "scared","zoneid":1, "color": "#a855f7", "icon": "icons/scared.svg"},
+  {"text": "tired","zoneid":1, "color": "#64748b", "icon": "icons/tired.svg"},
+  {"text": "hurt","zoneid":1, "color": "#f97316", "icon": "icons/ouch.svg"},
+  {"text": "sick","zoneid":1, "color": "#22c55e", "icon": "icons/sick.svg"},
+  {"text": "good","zoneid":1, "color": "#14b8a6", "icon": "icons/thumbsup.svg"},
+  {"text": "love","zoneid":1, "color": "#ec4899", "icon": "icons/heart.svg"},
+  {"text": "like","zoneid":1, "color": "#22c55e", "icon": "icons/thumbsup.svg"},
+  {"text": "don't","zoneid":1, "color": "#ef4444", "icon": "icons/thumbsdown.svg"},
+  {"text": "hate","zoneid":1, "color": "#991b1b", "icon": "icons/thumbsdown.svg"},
+  {"text": "okay","zoneid":1, "color": "#fbbf24", "icon": "icons/hand.svg"},
+  {"text": "bad","zoneid":1, "color": "#64748b", "icon": "icons/thumbsdown.svg"},
+  {"text": "excited","zoneid":1, "color": "#f97316", "icon": "icons/star.svg"},
+  {"text": "calm","zoneid":1, "color": "#14b8a6", "icon": "icons/peace.svg"}
+]
