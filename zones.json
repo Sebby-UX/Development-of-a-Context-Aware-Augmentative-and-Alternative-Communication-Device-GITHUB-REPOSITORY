@@ -1,0 +1,114 @@
+{
+    "zones": [
+        {
+            "zone": "Zone A",
+            "id": "1",
+            "coordinates": [
+                {
+                    "latitude": 14.211,
+                    "longitude": 121.165
+                },
+                {
+                    "latitude": 14.212,
+                    "longitude": 121.165
+                },
+                {
+                    "latitude": 14.212,
+                    "longitude": 121.166
+                },
+                {
+                    "latitude": 14.211,
+                    "longitude": 121.166
+                }
+            ]
+        },
+        {
+            "zone": "Zone B",
+            "id": "2",
+            "coordinates": [
+                {
+                    "latitude": 14.213,
+                    "longitude": 121.167
+                },
+                {
+                    "latitude": 14.214,
+                    "longitude": 121.167
+                },
+                {
+                    "latitude": 14.214,
+                    "longitude": 121.168
+                },
+                {
+                    "latitude": 14.213,
+                    "longitude": 121.168
+                }
+            ]
+        },
+        {
+            "zone": "Zone C",
+            "id": "3",
+            "coordinates": [
+                {
+                    "latitude": 14.215,
+                    "longitude": 121.169
+                },
+                {
+                    "latitude": 14.216,
+                    "longitude": 121.169
+                },
+                {
+                    "latitude": 14.216,
+                    "longitude": 121.17
+                },
+                {
+                    "latitude": 14.215,
+                    "longitude": 121.17
+                }
+            ]
+        },
+        {
+            "zone": "Zone B1",
+            "id": "4",
+            "coordinates": [
+                {
+                    "latitude": "14.21321",
+                    "longitude": "121.16712121"
+                },
+                {
+                    "latitude": "14.21412",
+                    "longitude": "121.212"
+                },
+                {
+                    "latitude": "14.2141212",
+                    "longitude": "121.1681212"
+                },
+                {
+                    "latitude": "14.213121",
+                    "longitude": "121.1681221"
+                }
+            ]
+        },
+        {
+            "zone": "Zone B1as",
+            "id": "5",
+            "coordinates": [
+                {
+                    "latitude": "14.21321",
+                    "longitude": "121.16712121"
+                },
+                {
+                    "latitude": "14.21412",
+                    "longitude": "121.212"
+                },
+                {
+                    "latitude": "14.2141212",
+                    "longitude": "121.1681212"
+                },
+                {
+                    "latitude": "14.213121",
+                    "longitude": "121.1681221"
+                }
+            ]
+        }
+    ]
+}

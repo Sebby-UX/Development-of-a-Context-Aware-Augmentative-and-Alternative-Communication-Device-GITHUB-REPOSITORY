@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>714</width>
+    <height>415</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background-color: rgb(15, 23, 42);</string>
+  </property>
+  <layout class="QGridLayout" name="gridLayout">
+   <item row="0" column="0">
+    <widget class="QGroupBox" name="groupBox">
+     <property name="title">
+      <string/>
+     </property>
+     <widget class="QPushButton" name="profile2">
+      <property name="geometry">
+       <rect>
+        <x>151</x>
+        <y>120</y>
+        <width>130</width>
+        <height>160</height>
+       </rect>
+      </property>
+      <property name="minimumSize">
+       <size>
+        <width>130</width>
+        <height>160</height>
+       </size>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">background-color: #22c55e; border-radius: 5px;</string>
+      </property>
+      <property name="text">
+       <string>Profile2</string>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="profile1">
+      <property name="geometry">
+       <rect>
+        <x>15</x>
+        <y>120</y>
+        <width>130</width>
+        <height>160</height>
+       </rect>
+      </property>
+      <property name="minimumSize">
+       <size>
+        <width>130</width>
+        <height>160</height>
+       </size>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">background-color: #fbbf24;border-radius: 5px;</string>
+      </property>
+      <property name="text">
+       <string>Profile1</string>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="profile3">
+      <property name="geometry">
+       <rect>
+        <x>287</x>
+        <y>120</y>
+        <width>130</width>
+        <height>160</height>
+       </rect>
+      </property>
+      <property name="minimumSize">
+       <size>
+        <width>130</width>
+        <height>160</height>
+       </size>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">background-color: #3b82f6; border-radius: 5px;</string>
+      </property>
+      <property name="text">
+       <string>Profile3</string>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="profile4">
+      <property name="geometry">
+       <rect>
+        <x>424</x>
+        <y>120</y>
+        <width>130</width>
+        <height>160</height>
+       </rect>
+      </property>
+      <property name="minimumSize">
+       <size>
+        <width>130</width>
+        <height>160</height>
+       </size>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">background-color: #a855f7; border-radius: 5px;</string>
+      </property>
+      <property name="text">
+       <string>Profile4</string>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="profile5">
+      <property name="geometry">
+       <rect>
+        <x>560</x>
+        <y>120</y>
+        <width>130</width>
+        <height>160</height>
+       </rect>
+      </property>
+      <property name="minimumSize">
+       <size>
+        <width>130</width>
+        <height>160</height>
+       </size>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">background-color: rgb(255, 0, 0); border-radius: 5px;background-color: rgb(255, 0, 0); border-radius: 5px;</string>
+      </property>
+      <property name="text">
+       <string>Profile5</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="label">
+      <property name="geometry">
+       <rect>
+        <x>60</x>
+        <y>285</y>
+        <width>49</width>
+        <height>16</height>
+       </rect>
+      </property>
+      <property name="sizePolicy">
+       <sizepolicy hsizetype="Preferred" vsizetype="Fixed">
+        <horstretch>0</horstretch>
+        <verstretch>0</verstretch>
+       </sizepolicy>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">color:white;</string>
+      </property>
+      <property name="text">
+       <string>Profile 1</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="label_2">
+      <property name="geometry">
+       <rect>
+        <x>190</x>
+        <y>285</y>
+        <width>49</width>
+        <height>16</height>
+       </rect>
+      </property>
+      <property name="sizePolicy">
+       <sizepolicy hsizetype="Preferred" vsizetype="Fixed">
+        <horstretch>0</horstretch>
+        <verstretch>0</verstretch>
+       </sizepolicy>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">color:white;</string>
+      </property>
+      <property name="text">
+       <string>Profile 2</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="label_3">
+      <property name="geometry">
+       <rect>
+        <x>330</x>
+        <y>285</y>
+        <width>49</width>
+        <height>16</height>
+       </rect>
+      </property>
+      <property name="sizePolicy">
+       <sizepolicy hsizetype="Preferred" vsizetype="Fixed">
+        <horstretch>0</horstretch>
+        <verstretch>0</verstretch>
+       </sizepolicy>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">color:white;</string>
+      </property>
+      <property name="text">
+       <string>Profile 3</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="label_4">
+      <property name="geometry">
+       <rect>
+        <x>470</x>
+        <y>285</y>
+        <width>49</width>
+        <height>16</height>
+       </rect>
+      </property>
+      <property name="sizePolicy">
+       <sizepolicy hsizetype="Preferred" vsizetype="Fixed">
+        <horstretch>0</horstretch>
+        <verstretch>0</verstretch>
+       </sizepolicy>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">color:white;</string>
+      </property>
+      <property name="text">
+       <string>Profile 4</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="label_5">
+      <property name="geometry">
+       <rect>
+        <x>600</x>
+        <y>285</y>
+        <width>49</width>
+        <height>16</height>
+       </rect>
+      </property>
+      <property name="sizePolicy">
+       <sizepolicy hsizetype="Preferred" vsizetype="Fixed">
+        <horstretch>0</horstretch>
+        <verstretch>0</verstretch>
+       </sizepolicy>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">color:white;</string>
+      </property>
+      <property name="text">
+       <string>Profile 5</string>
+      </property>
+     </widget>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
