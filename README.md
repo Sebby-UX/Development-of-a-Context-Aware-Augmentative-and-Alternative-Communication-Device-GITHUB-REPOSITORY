@@ -1,0 +1,2 @@
+# Development-of-a-Context-Aware-Augmentative-and-Alternative-Communication-Device-GITHUB-REPOSITORY
+This design project developed a Context-Aware Augmentative and Alternative Communication (AAC) device to improve communication efficiency for individuals with Autism Spectrum Disorder (ASD) and speech impairments, particularly in low-resource Philippine educational and therapy settings. Traditional AAC systems are context-blind
